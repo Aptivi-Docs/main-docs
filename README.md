@@ -42,6 +42,10 @@ In order to explore this manual library, we're actively developing these manuals
 [Magico - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9HplJs3O1ssgO7jfgDx1/)
 {% endcontent-ref %}
 
+{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/H6gL7ccNICZN4KuBgv7R/" %}
+[ChemiStar - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/H6gL7ccNICZN4KuBgv7R/)
+{% endcontent-ref %}
+
 {% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CHqY7BBVZrSqzuO3OfoP/" %}
 [dotify - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CHqY7BBVZrSqzuO3OfoP/)
 {% endcontent-ref %}
