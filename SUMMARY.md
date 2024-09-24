@@ -1,16 +1,16 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [Welcome!](README.md)
 
-## C# Libraries
+## C# Libraries <a href="#csharp-libraries" id="csharp-libraries"></a>
 
-* [Installation and Upgrade](c-libraries/installation-and-upgrade/README.md)
-  * [Installation](c-libraries/installation-and-upgrade/installation.md)
-  * [Upgrade](c-libraries/installation-and-upgrade/upgrade.md)
+* [Installation and Upgrade](csharp-libraries/installation-and-upgrade/README.md)
+  * [Installation](csharp-libraries/installation-and-upgrade/installation.md)
+  * [Upgrade](csharp-libraries/installation-and-upgrade/upgrade.md)
 
 ## Useful tools
 
-* [🔍 Useful Regular Expressions](useful-tools/useful-regular-expressions.md)
+* [Useful Regular Expressions](useful-tools/useful-regular-expressions.md)
 
 ***
 

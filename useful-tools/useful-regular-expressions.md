@@ -1,8 +1,9 @@
 ---
 description: Some of the useful regexes are here!
+icon: magnifying-glass
 ---
 
-# 🔍 Useful Regular Expressions
+# Useful Regular Expressions
 
 We have populated some of the most useful regular expressions that we've found or created here. All work is hereby credited to their respective owners.
 

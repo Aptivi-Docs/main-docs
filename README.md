@@ -1,8 +1,9 @@
 ---
 description: Welcome to the Aptivi manual!
+icon: hand-wave
 ---
 
-# 👋 Welcome!
+# Welcome!
 
 <figure><img src=".gitbook/assets/aptivi-bg-2k.png" alt=""><figcaption></figcaption></figure>
 
