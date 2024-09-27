@@ -1,11 +1,18 @@
 ---
-description: Welcome to the Aptivi manual!
 icon: hand-wave
+description: Welcome to the Aptivi manual!
 ---
 
 # Welcome!
 
 <figure><img src=".gitbook/assets/aptivi-bg-2k.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+The project documentations will be offline starting **October 3rd** for maintenance. The downtime should not last more than 2 days. You can still access source code of all documentations in GitHub:
+
+* [Rolling edge documentations](https://github.com/Aptivi-docs)
+* [Stable documentations](https://github.com/Aptivi-Stable-Docs)
+{% endhint %}
 
 You've reached the landing page of our official Aptivi manual library! Welcome to the Aptivi manual where we post every single manual for any and all our projects, including other documentation served for different purposes to document our things.
 
