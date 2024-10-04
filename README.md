@@ -7,67 +7,32 @@ description: Welcome to the Aptivi manual!
 
 <figure><img src=".gitbook/assets/aptivi-bg-2k.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-The project documentations will be offline starting **October 3rd** for maintenance. The downtime should not last more than 2 days. You can still access source code of all documentations in GitHub:
-
-* [Rolling edge documentations](https://github.com/Aptivi-docs)
-* [Stable documentations](https://github.com/Aptivi-Stable-Docs)
-{% endhint %}
-
 You've reached the landing page of our official Aptivi manual library! Welcome to the Aptivi manual where we post every single manual for any and all our projects, including other documentation served for different purposes to document our things.
 
 In order to explore this manual library, we're actively developing these manuals for all our supported libraries and applications:
 
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/yhORwVwuIgJMLsQRqN3S/" %}
-[Nitrocid KS - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/yhORwVwuIgJMLsQRqN3S/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/izAJoIbtQw1BdIlE4DBz/" %}
-[BassBoom - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/izAJoIbtQw1BdIlE4DBz/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/G0KrE9Uk2AiblqjWtpAo/" %}
-[Terminaux - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/G0KrE9Uk2AiblqjWtpAo/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/bEvVwD4FK7bX7p8XtIPH/" %}
-[VisualCard - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/bEvVwD4FK7bX7p8XtIPH/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/HwStOOqLbZN15cxkDYf6/" %}
-[SpecProbe - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/HwStOOqLbZN15cxkDYf6/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/NaUWjRlaBR1k5rO42Zy8/" %}
-[Textify - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/NaUWjRlaBR1k5rO42Zy8/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/VAbPWc0zpDgwlfwTfz6I/" %}
-[Nettify - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/VAbPWc0zpDgwlfwTfz6I/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9HplJs3O1ssgO7jfgDx1/" %}
-[Magico - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9HplJs3O1ssgO7jfgDx1/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/H6gL7ccNICZN4KuBgv7R/" %}
-[ChemiStar - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/H6gL7ccNICZN4KuBgv7R/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/rdtoofqFunX1AovOs36M/" %}
-[Metalinker - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/rdtoofqFunX1AovOs36M/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CHqY7BBVZrSqzuO3OfoP/" %}
-[dotify - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CHqY7BBVZrSqzuO3OfoP/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CEFibJCowoMpXmn9L2tu/" %}
-[uprepos - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CEFibJCowoMpXmn9L2tu/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/1tJTHYAgZoCnZw6dNbfu/" %}
-[pushrepos - Manual](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/1tJTHYAgZoCnZw6dNbfu/)
-{% endcontent-ref %}
+* Nitrocid KS (February 22nd, 2018)
+  * [Rolling edge](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/yhORwVwuIgJMLsQRqN3S/)
+  * [Supported release manuals](https://app.gitbook.com/s/T8WTAYIRG8A70guJjNZp/)
+  * [Deprecated release manuals](https://app.gitbook.com/s/cBOt3AUDL3OUPbgIWwaQ/)
+* Terminaux (August 6th, 2023)
+  * [Rolling edge](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/G0KrE9Uk2AiblqjWtpAo/)
+  * [Supported release manuals](https://app.gitbook.com/s/T8WTAYIRG8A70guJjNZp/)
+  * [Deprecated release manuals](https://app.gitbook.com/s/cBOt3AUDL3OUPbgIWwaQ/)
+* BassBoom (October 1st, 2023)
+  * [Rolling edge](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/izAJoIbtQw1BdIlE4DBz/)
+  * [Supported release manuals](https://app.gitbook.com/s/T8WTAYIRG8A70guJjNZp/)
+  * [Deprecated release manuals](https://app.gitbook.com/s/cBOt3AUDL3OUPbgIWwaQ/)
+* [VisualCard](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/bEvVwD4FK7bX7p8XtIPH/) (June 27th, 2022)
+* [SpecProbe](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/HwStOOqLbZN15cxkDYf6/) (October 15th, 2023)
+* [Textify](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/NaUWjRlaBR1k5rO42Zy8/) (December 2nd, 2023)
+* [Nettify](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/VAbPWc0zpDgwlfwTfz6I/) (December 19th, 2023)
+* [Magico](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9HplJs3O1ssgO7jfgDx1/) (May 16th, 2024)
+* [ChemiStar](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/H6gL7ccNICZN4KuBgv7R/) (August 19th, 2024)
+* [Metalinker](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/rdtoofqFunX1AovOs36M/) (August 28th, 2024)
+* [CliTester](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/QTj9EuIV9YhegMLkJiQR/) (September 23rd, 2024)
+* [dotify](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CHqY7BBVZrSqzuO3OfoP/) (August 7th, 2022)
+* [uprepos](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CEFibJCowoMpXmn9L2tu/) (August 8th, 2022)
+* [pushrepos](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/1tJTHYAgZoCnZw6dNbfu/) (August 8th, 2022)
 
 For other pages in this space, click on any page in the right hand side of the page.
