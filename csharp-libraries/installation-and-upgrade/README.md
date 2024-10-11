@@ -1,6 +1,6 @@
 ---
-description: Learn how to install and upgrade our C# libraries
 icon: compact-disc
+description: Learn how to install and upgrade our C# libraries
 ---
 
 # Installation and Upgrade
@@ -20,3 +20,7 @@ Click on one of the buttons below to find out how to install or upgrade our libr
 {% content-ref url="upgrade.md" %}
 [upgrade.md](upgrade.md)
 {% endcontent-ref %}
+
+{% hint style="success" %}
+It's a good practice to verify that your download is not corrupt using the methods outlined in the [Attestations](../attestations.md) page.
+{% endhint %}
