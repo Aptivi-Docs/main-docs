@@ -13,3 +13,4 @@
 ## Useful tools
 
 * [Useful Regular Expressions](useful-tools/useful-regular-expressions.md)
+* [Fix Windows random disconnections](useful-tools/fix-windows-random-disconnections.md)
