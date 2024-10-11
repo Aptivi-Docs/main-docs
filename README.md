@@ -34,5 +34,6 @@ In order to explore this manual library, we're actively developing these manuals
 * [dotify](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CHqY7BBVZrSqzuO3OfoP/) (August 7th, 2022)
 * [uprepos](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CEFibJCowoMpXmn9L2tu/) (August 8th, 2022)
 * [pushrepos](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/1tJTHYAgZoCnZw6dNbfu/) (August 8th, 2022)
+* [BskyId](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/RRjvnvAeaoBNYAhzAnv0/) (October 8th, 2024)
 
 For other pages in this space, click on any page in the right hand side of the page.
