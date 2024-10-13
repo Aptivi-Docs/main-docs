@@ -7,6 +7,10 @@ description: Welcome to the Aptivi manual!
 
 <figure><img src=".gitbook/assets/aptivi-bg-2k.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+**We apologize for your inconvenience, but it seems that uncontrollable internet connectivity and electricity issues in our environment is causing the release to be delayed, alongside other factors. We are extremely sorry for the delayed release of Textify 2.4.0, and will conduct an internal investigation. Meanwhile, we'll stop further development of all projects until this investigation is complete and our environment is back to usable states.**
+{% endhint %}
+
 You've reached the landing page of our official Aptivi manual library! Welcome to the Aptivi manual where we post every single manual for any and all our projects, including other documentation served for different purposes to document our things.
 
 In order to explore this manual library, we're actively developing these manuals for all our supported libraries and applications:
