@@ -7,12 +7,6 @@ description: Welcome to the Aptivi manual!
 
 <figure><img src=".gitbook/assets/aptivi-bg-2k.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="success" %}
-**We have managed to get back control of both electricity and internet connectivity. This means that we have sorted out the environmental issues. We are more than thrilled to return to development as of this writing.**
-
-**Again, we apologize for our bad handling of the Textify 2.4.0 release.**
-{% endhint %}
-
 You've reached the landing page of our official Aptivi manual library! Welcome to the Aptivi manual where we post every single manual for any and all our projects, including other documentation served for different purposes to document our things.
 
 In order to explore this manual library, we're actively developing these manuals for all our supported libraries and applications:
