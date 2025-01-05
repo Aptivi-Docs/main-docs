@@ -57,11 +57,10 @@ When it comes to supporting operating systems in our apps, the below support dat
 
 ### Windows
 
-| Version    | Support               | End of support      |
-| ---------- | --------------------- | ------------------- |
-| Windows 11 | Supported             | December 16th, 2032 |
-| Windows 10 | Supported             | December 17th, 2026 |
-| Windows 7  | Supported (OS is EOL) | December 19th, 2024 |
+| Version    | Support   | End of support      |
+| ---------- | --------- | ------------------- |
+| Windows 11 | Supported | December 16th, 2032 |
+| Windows 10 | Supported | December 17th, 2026 |
 
 ### macOS
 
