@@ -43,7 +43,6 @@ Stable manuals are manuals that are written for a specific version of a library 
 You can check out the following stable manuals below:
 
 * Nitrocid KS
-  * [0.0.24.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CSgCBCfc3J15ygiqIgeT/)
   * [0.1.0.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/8WTX95xf6ky54JzTCqMT/)
   * [0.1.1.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/dBjQVxqHLo7AzH0V9tdH/)
 * Terminaux
@@ -60,6 +59,7 @@ Deprecated manuals are documentations that are written for a specific version of
 You can check out the following manuals for these projects (and their first version release dates in GitHub) below:
 
 * Nitrocid KS
+  * [0.0.24.x](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CSgCBCfc3J15ygiqIgeT/) (August 2nd, 2022)
   * [0.1.0 Beta 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/Ad5vIFTQSlbQ4N2BpB8m/) (February 22nd, 2023)
   * [0.1.0 Beta 2](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/RoaqpM3GSf9vXxRAagbV/) (August 10th, 2023)
   * [0.1.0 Beta 3](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/kfeoFVXA0LPgBamKZDG4/) (December 28th, 2023)
