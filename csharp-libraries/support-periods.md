@@ -39,6 +39,7 @@ However, applications and libraries may have different support periods, which ar
 * [**Nitrocid KS**](https://app.gitbook.com/s/yhORwVwuIgJMLsQRqN3S/versions-and-compatibility/supported-versions)
   * Short term releases: 9 months as of 0.1.1 or later
   * Long term releases: 5 years of non-security fixes, and 5 years of security and critical fixes
+  * Although Windows 10 is still supported until October 15th, 2025, we **no longer support** running Nitrocid KS on Windows 10 beginning February 27th, 2025.
 
 ## Current support periods
 
