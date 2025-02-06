@@ -48,6 +48,7 @@ You can check out the following stable manuals below:
 * Terminaux
   * [4.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LICzQPcJvzuBfJRHqvLy/)
   * [5.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/AwolIeCEQSaYeA2rJwE5/)
+  * [6.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/TQS2U00Papqc2LMhftr5/)
 * BassBoom
   * [0.1.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/fHtfhhJqL7cSA3V4vRjG/)
   * [0.2.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/VEwnv6SUh5piF7crh1UN/)
