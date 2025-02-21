@@ -14,3 +14,8 @@
 
 * [Useful Regular Expressions](useful-tools/useful-regular-expressions.md)
 * [Fix Windows random disconnections](useful-tools/fix-windows-random-disconnections.md)
+
+## Guidelines
+
+* [Code of Conduct](guidelines/code-of-conduct.md)
+* [Contribution Guidelines](guidelines/contribution-guidelines.md)
