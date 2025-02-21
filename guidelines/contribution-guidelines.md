@@ -1,8 +1,8 @@
 ---
+icon: ballot-check
 description: >-
   Participation requires that you read the code of conduct and the contribution
   guidelines.
-icon: ballot-check
 ---
 
 # Contribution Guidelines
@@ -38,7 +38,7 @@ When it comes to coding your changes, they should follow the below coding guidel
 
 #### Sorting of Fields and Properties
 
-Fields must come at the very beginning of each class before the properties. Between the fields and the properties and the functions, there should be an empty line. Moreover, accesibility modifiers should be sorted in the following order:
+Fields must come at the very beginning of each class before the properties. Between the fields and the properties and the functions, there should be an empty line. Moreover, accessibility modifiers should be sorted in the following order:
 
 ```
 ClassName
@@ -190,7 +190,8 @@ For types, you should select exactly one type from the following types:
 * `ref`: for refactors
 * `upd`: for library updates
 * `doc`: for documentation updates
-* `dev`: for development checkpoints (version bump, etc.)
+* `dev`: for development start points
+* `dcp`: for development checkpoints (version bump, etc.)
 * `fin`: for development finish points
 * `chg`: for minor changes to previous commits
 * `int`: for continuous integration changes
@@ -221,7 +222,8 @@ Take note that if you've set a commit that is a backport, make sure that the typ
 
 * Incompatible types with `bkp`
   * `rem`: for removals
-  * `dev`: for development checkpoints (version bump, etc.)
+  * `dev`: for development start points
+  * `dcp`: for development checkpoints (version bump, etc.)
   * `fin`: for development finish points
 * Incompatible attributes with `bkp`
   * `ptp`: for prototyping
@@ -241,7 +243,7 @@ In addition to that, if you've backported a commit from a different branch or ta
     ```
     The following commits or tags are used for this backport:
       - E3218765...
-      - FAE890DA7...
+      - FAE890DA...
       - BE2701D2...
     ```
 
