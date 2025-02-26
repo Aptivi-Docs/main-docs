@@ -20,6 +20,7 @@ In order to explore this manual library, we're actively developing these manuals
 * [Nitrocid KS](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/yhORwVwuIgJMLsQRqN3S/) (February 22nd, 2018)
   * [Nitrocid KS 0.1.0.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/8WTX95xf6ky54JzTCqMT/) (March 13th, 2024)
   * [Nitrocid KS 0.1.1.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/dBjQVxqHLo7AzH0V9tdH/) (July 23rd, 2024)
+  * [Nitrocid KS 0.1.2.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/dDPcLxEVE2Wr3wAIGfTA/) (February 27th, 2025)
 * [Terminaux](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/G0KrE9Uk2AiblqjWtpAo/) (August 6th, 2023)
 * [BassBoom](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/izAJoIbtQw1BdIlE4DBz/) (October 1st, 2023)
 * [VisualCard](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/bEvVwD4FK7bX7p8XtIPH/) (June 27th, 2022)
@@ -49,12 +50,12 @@ You can check out the following stable manuals below:
     * [RTM](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/6SuJr8TEJ774XHJd2U2D/) (March 13th, 2024)
     * [Service Pack 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/KBgZy6xqjdYb7KIbxI6u/) (September 10th, 2024)
     * [Service Pack 2](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/Jykbx4O47VXdoe2Rclr6/) (December 22nd, 2024)
-    * [Service Pack 3](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9jbbb7C25pUis5THBdBT/) (February 27th, 2025)
+    * [Service Pack 3](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9jbbb7C25pUis5THBdBT/) (February 25th, 2025)
   * 0.1.1.x series
     * [RTM](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CQjuvibJ7lmVV8tNNZLy/) (July 23rd, 2024)
     * [Service Pack 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/bGshDttFEiEtQFRmImJk/) (September 10th, 2024)
     * [Service Pack 2](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/UEEEG0B7Uk04yjOhgDwT/) (December 22nd, 2024)
-    * [Service Pack 3](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/iT2DBrNZjRgvA3UQ0pzl/) (February 27th, 2025)
+    * [Service Pack 3](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/iT2DBrNZjRgvA3UQ0pzl/) (February 26th, 2025)
 * Terminaux
   * [4.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LICzQPcJvzuBfJRHqvLy/)
   * [5.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/AwolIeCEQSaYeA2rJwE5/)
