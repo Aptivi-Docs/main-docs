@@ -1,6 +1,6 @@
 ---
-icon: question
 description: Not all versions of libraries are supported.
+icon: question
 ---
 
 # Support Periods
@@ -17,14 +17,14 @@ When a library is released, it typically comes with just one version series, whi
 
 * **Projects that reached 1.x or later**
   * The following support periods, which start with the release date of the last sub-series released (such as Terminaux 5.4.x) before the next major series (6.x.x), are as follows:
-    * For projects that evolve rapidly, such as Terminaux, the last sub-series will receive a one-year support window, while all the other sub-series released in the series are EOL.
-    * For projects that evolve less rapidly, such as Textify, the last sub-series will receive a two-year support window, while all the other sub-series released in the series are EOL.
-    * For projects that evolve slowly, such as SpecProbe, the last sub-series will receive a three-year support window, while all the other sub-series released in the series are EOL.
+    * One-year window is applied to projects that get updated frequently in major versioning, such as Terminaux.
+    * Two-year window is applied to projects that get updated frequently in minor versioning, such as Textify.
+    * Three-year window is applied to projects that get updated occasionally in an unplanned schedule, such as SpecProbe.
 * **Projects that are in the 0.x.y series**
   * The following support periods, which start with the release date of the last sub-series released (such as Terminaux 5.4.x) before the next major series (6.x.x), are as follows:
-    * For projects that evolve rapidly, the last sub-series will receive a six-month support window, while all the other sub-series released in the series are EOL.
-    * For projects that evolve less rapidly, the last sub-series will receive a one-year support window, while all the other sub-series released in the series are EOL.
-    * For projects that evolve slowly, the last sub-series will receive a two-year support window, while all the other sub-series released in the series are EOL.
+    * Six-month window is applied to projects that get updated frequently in major versioning.
+    * One-year window is applied to projects that get updated frequently in minor versioning.
+    * Two-year window is applied to projects that get updated occasionally in an unplanned schedule.
 * **Projects that are in the 0.0.x.y series**
   * There is no support for these versions except the latest version, which won't last long. As soon as the library or the application moves to the 0.x.y series or the x.y.z series, none of the 0.0.x.y series will be in support.
 
@@ -51,7 +51,7 @@ Only libraries and applications that don't have their own support policy are sho
   * 6.1.x series are supported until August 5th, 2026 (6 extra months after February 6th, 2026 due to buggy release of 6.0.0).
 * **BassBoom**
   * 0.1.x.y series is supported until May 31st, 2025.
-  * 0.2.x.y series is supported until September 16th, 2025.
+  * 0.2.x.y series is supported until the 1.x version of BassBoom is released, which will accompany with the 1.x version of a future BassBoom library under a separate library.
 
 ## Operating system support
 
