@@ -50,10 +50,10 @@ You can check out the following stable manuals below:
     * [Service Pack 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/KBgZy6xqjdYb7KIbxI6u/) (September 10th, 2024)
     * [Service Pack 2](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/Jykbx4O47VXdoe2Rclr6/) (December 22nd, 2024)
     * [Service Pack 3](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9jbbb7C25pUis5THBdBT/) (February 25th, 2025)
-    * Service Pack 4 (April 24th, 2025)
+    * [Service Pack 4](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/Uv5xFsHO3M8HUVRJnPC4/) (April 24th, 2025)
   * 0.1.2.x series
     * [RTM](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/ti3qN0z5V1qXGWmZ4j68/) (February 27th, 2025)
-    * Service Pack 1 (April 24th, 2025)
+    * [Service Pack 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/sksRFHyRvimCbJ6iM2oa/) (April 24th, 2025)
 * Terminaux
   * [4.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LICzQPcJvzuBfJRHqvLy/)
   * [5.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/AwolIeCEQSaYeA2rJwE5/)
