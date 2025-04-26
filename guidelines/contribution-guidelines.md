@@ -1,8 +1,8 @@
 ---
-icon: ballot-check
 description: >-
   Participation requires that you read the code of conduct and the contribution
   guidelines.
+icon: ballot-check
 ---
 
 # Contribution Guidelines
@@ -28,7 +28,7 @@ _This doesn't apply to projects that don't use C# or aren't exclusive to Windows
 When contributing changes to any part of the code, especially when creating files, your pull requests should follow the below requirements:
 
 * File names should not contain forbidden characters, such as `/ \ : * ? " < > |`, and control characters, such as a new line, as files with such names don't sit well with Windows.
-* File names should always be treated as case sensitive, even if \*nix systems allow you to create files with same name but different casing, as files that fall into this category don't sit well with Windows.
+* File names should always be treated as case insensitive, even if \*nix systems allow you to create files with same name but different casing, as files that fall into this category don't sit well with Windows.
 * When creating shell scripts in Windows, you should give it executable permissions with `git update-index --chmod=+x <SHELLSCRIPT>` prior to committing, as Windows in general has no concept of Unix permissions.
 * In general, make sure that any of your changes don't cause incompatibilities with Windows in any way in both build-time and run-time.
 
