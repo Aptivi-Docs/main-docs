@@ -76,6 +76,23 @@ When it comes to supporting operating systems in our apps, the below support dat
 
 We support running our applications on Linux distributions, as long as both the corresponding .NET runtime, which is used to run our apps, and the distribution itself are supported. End of life versions and/or distributions are not supported.
 
+### Android
+
+We support running our applications on Android devices, as long as they get security updates. However, you must take the following into account:
+
+* We don't officially offer support for Android 11 or lower
+* We don't officially offer support for non-Samsung devices (Google Pixel, Huawei, Xiaomi, etc.)
+* We don't officially offer support for One UI 7 yet
+* We don't officially offer support for Android versions that we don't have access to yet
+
+We are offering support for One UI 5.0 as the minimum version for Samsung devices up to One UI 6.1.1 as the maximum version. The following support periods can be found below:
+
+| Version    | Support           | End of support      |
+| ---------- | ----------------- | ------------------- |
+| One UI 5.x | Supported         | July 1st, 2025      |
+| One UI 6.x | Supported         | December 30th, 2027 |
+| One UI 7.0 | Not supported yet | To be determined    |
+
 ### Others
 
 We don't provide support for other operating systems.
