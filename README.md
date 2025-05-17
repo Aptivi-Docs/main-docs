@@ -29,6 +29,7 @@ In order to explore this manual library, we're actively developing these manuals
 * [Magico](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9HplJs3O1ssgO7jfgDx1/) (May 16th, 2024)
 * [ChemiStar](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/H6gL7ccNICZN4KuBgv7R/) (August 19th, 2024)
 * [Metalinker](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/rdtoofqFunX1AovOs36M/) (August 28th, 2024)
+* [LocaleStation](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/bKrTzoXx2e0avHOvf94R/) (May 7th, 2025)
 * [dotify](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CHqY7BBVZrSqzuO3OfoP/) (August 7th, 2022)
 * [uprepos](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CEFibJCowoMpXmn9L2tu/) (August 8th, 2022)
 * [pushrepos](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/1tJTHYAgZoCnZw6dNbfu/) (August 8th, 2022)
