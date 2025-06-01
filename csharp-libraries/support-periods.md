@@ -65,11 +65,13 @@ When it comes to supporting operating systems in our apps, the below support dat
 
 ### macOS
 
+Generall, a macOS version will end its support three years after the initial release.
+
 | Version            | Support   | End of support   |
 | ------------------ | --------- | ---------------- |
 | macOS 15 (Sequoia) | Supported | To be determined |
 | macOS 14 (Sonoma)  | Supported | To be determined |
-| macOS 13 (Ventura) | Supported | To be determined |
+| macOS 13 (Ventura) | Supported | July 1st, 2025   |
 
 ### Linux
 
