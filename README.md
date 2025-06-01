@@ -62,8 +62,8 @@ You can check out the following stable manuals below:
   * 7.x series
     * [7.0 Beta 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LzbGlY2EzXni4wVJ3OIq/) (May 8th, 2025)
     * 7.0 Beta 2 (June 12th, 2025)
+    * 7.0 Beta 3 (TBD)
 * BassBoom
-  * [0.1.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/fHtfhhJqL7cSA3V4vRjG/)
   * [0.2.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/VEwnv6SUh5piF7crh1UN/)
 
 ## Deprecated Manuals
@@ -87,6 +87,8 @@ You can check out the following manuals for these projects (and their first vers
   * [1.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/IcD1aLc5jxHMwvslhJIP/) (August 6th, 2023)
   * [2.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/BAbXedIZJ6HPa9EGmSYt/) (December 13th, 2023)
   * [3.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/OmlwECCRQY4XJQJZaeLc/) (February 19th, 2024)
+* BassBoom
+  * [0.1.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/fHtfhhJqL7cSA3V4vRjG/) (May 31st, 2024)
 * [Extensification](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/28rYUbSLKvSrDJNWIOgb/) (October 23rd, 2020)
 * [VT.NET](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/YbiNE2YaQVvLe5eb2Plm/) (August 10th, 2022)
 * [ColorSeq](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/0sPzHIuVZpxZqrzvLJtN/) (August 10th, 2022)
