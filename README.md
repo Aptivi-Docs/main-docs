@@ -61,8 +61,9 @@ You can check out the following stable manuals below:
   * [6.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/TQS2U00Papqc2LMhftr5/)
   * 7.x series
     * [7.0 Beta 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LzbGlY2EzXni4wVJ3OIq/) (May 8th, 2025)
-    * 7.0 Beta 2 (June 12th, 2025)
-    * 7.0 Beta 3 (TBD)
+    * [7.0 Beta 2](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9uVNBGO8HnjxkBGui0v9/) (June 5th, 2025)
+    * 7.0 Beta 3 (July 3rd, 2025)
+    * 7.0 Beta 4 (TBD)
 * BassBoom
   * [0.2.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/VEwnv6SUh5piF7crh1UN/)
 
