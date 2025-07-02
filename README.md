@@ -56,16 +56,16 @@ You can check out the following stable manuals below:
     * [RTM](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/ti3qN0z5V1qXGWmZ4j68/) (February 27th, 2025)
     * [Service Pack 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/sksRFHyRvimCbJ6iM2oa/) (April 24th, 2025)
 * Terminaux
-  * [4.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LICzQPcJvzuBfJRHqvLy/)
-  * [5.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/AwolIeCEQSaYeA2rJwE5/)
-  * [6.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/TQS2U00Papqc2LMhftr5/)
-  * 7.x series
+  * [4.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LICzQPcJvzuBfJRHqvLy/) (May 22nd, 2024)
+  * [5.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/AwolIeCEQSaYeA2rJwE5/) (August 26th, 2024)
+  * [6.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/TQS2U00Papqc2LMhftr5/) (December 22nd, 2024)
+  * 7.x series (August 10th, 2025)
     * [7.0 Beta 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LzbGlY2EzXni4wVJ3OIq/) (May 8th, 2025)
     * [7.0 Beta 2](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9uVNBGO8HnjxkBGui0v9/) (June 5th, 2025)
     * [7.0 Beta 3](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/xVLVdezdFY9LNmeIt2oU/) (July 3rd, 2025)
     * 7.0 Beta 4 (July 31st, 2025)
 * BassBoom
-  * [0.2.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/VEwnv6SUh5piF7crh1UN/)
+  * [0.2.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/VEwnv6SUh5piF7crh1UN/) (September 16th, 2024)
 
 ## Deprecated Manuals
 
