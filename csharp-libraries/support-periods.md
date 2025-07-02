@@ -65,13 +65,12 @@ When it comes to supporting operating systems in our apps, the below support dat
 
 ### macOS
 
-Generall, a macOS version will end its support three years after the initial release.
+Generally, a macOS version will end its support three years after the initial release.
 
 | Version            | Support   | End of support   |
 | ------------------ | --------- | ---------------- |
 | macOS 15 (Sequoia) | Supported | To be determined |
 | macOS 14 (Sonoma)  | Supported | To be determined |
-| macOS 13 (Ventura) | Supported | July 1st, 2025   |
 
 ### Linux
 
@@ -86,11 +85,10 @@ We support running our applications on Android devices, as long as they get secu
 * We don't officially offer support for One UI 8 yet
 * We don't officially offer support for Android versions that we don't have access to yet
 
-We are offering support for One UI 5.0 as the minimum version for Samsung devices up to One UI 7.0 as the maximum version. The following support periods can be found below:
+We are offering support for One UI 6.0 as the minimum version for Samsung devices up to One UI 7.0 as the maximum version. The following support periods can be found below:
 
 | Version    | Support           | End of support      |
 | ---------- | ----------------- | ------------------- |
-| One UI 5.x | Supported         | July 1st, 2025      |
 | One UI 6.x | Supported         | December 30th, 2027 |
 | One UI 7.0 | Supported         | December 2nd, 2032  |
 | One UI 8.x | Not supported yet | To be determined    |
