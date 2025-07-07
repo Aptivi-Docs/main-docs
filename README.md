@@ -56,7 +56,6 @@ You can check out the following stable manuals below:
     * [RTM](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/ti3qN0z5V1qXGWmZ4j68/) (February 27th, 2025)
     * [Service Pack 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/sksRFHyRvimCbJ6iM2oa/) (April 24th, 2025)
 * Terminaux
-  * [4.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LICzQPcJvzuBfJRHqvLy/) (May 22nd, 2024)
   * [5.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/AwolIeCEQSaYeA2rJwE5/) (August 26th, 2024)
   * [6.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/TQS2U00Papqc2LMhftr5/) (December 22nd, 2024)
   * 7.x series (August 10th, 2025)
@@ -88,6 +87,7 @@ You can check out the following manuals for these projects (and their first vers
   * [1.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/IcD1aLc5jxHMwvslhJIP/) (August 6th, 2023)
   * [2.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/BAbXedIZJ6HPa9EGmSYt/) (December 13th, 2023)
   * [3.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/OmlwECCRQY4XJQJZaeLc/) (February 19th, 2024)
+  * [4.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LICzQPcJvzuBfJRHqvLy/) (May 22nd, 2024)
 * BassBoom
   * [0.1.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/fHtfhhJqL7cSA3V4vRjG/) (May 31st, 2024)
 * [Extensification](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/28rYUbSLKvSrDJNWIOgb/) (October 23rd, 2020)
