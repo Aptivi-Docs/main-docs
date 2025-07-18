@@ -59,7 +59,7 @@ You can check out the following stable manuals below:
 * Terminaux
   * [5.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/AwolIeCEQSaYeA2rJwE5/) (August 26th, 2024)
   * [6.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/TQS2U00Papqc2LMhftr5/) (December 22nd, 2024)
-  * 7.x series (August 10th, 2025)
+  * [7.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/e0LJJIYap5gz0hAolH6J/) (August 10th, 2025)
     * [7.0 Beta 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LzbGlY2EzXni4wVJ3OIq/) (May 8th, 2025)
     * [7.0 Beta 2](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9uVNBGO8HnjxkBGui0v9/) (June 5th, 2025)
     * [7.0 Beta 3](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/xVLVdezdFY9LNmeIt2oU/) (July 3rd, 2025)
