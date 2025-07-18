@@ -69,6 +69,7 @@ Generally, a macOS version will end its support three years after the initial re
 
 | Version            | Support   | End of support   |
 | ------------------ | --------- | ---------------- |
+| macOS 26 (Tahoe)   | Supported | To be determined |
 | macOS 15 (Sequoia) | Supported | To be determined |
 | macOS 14 (Sonoma)  | Supported | To be determined |
 
