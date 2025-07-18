@@ -34,6 +34,7 @@ In order to explore this manual library, we're actively developing these manuals
 * [uprepos](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CEFibJCowoMpXmn9L2tu/) (August 8th, 2022)
 * [pushrepos](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/1tJTHYAgZoCnZw6dNbfu/) (August 8th, 2022)
 * [BskyId](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/RRjvnvAeaoBNYAhzAnv0/) (October 8th, 2024)
+* [Build System](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/ocz2kFW2PRMWNpWEjhbc/) (July 18th, 2025)
 
 ## Stable Manuals
 
@@ -62,7 +63,7 @@ You can check out the following stable manuals below:
     * [7.0 Beta 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LzbGlY2EzXni4wVJ3OIq/) (May 8th, 2025)
     * [7.0 Beta 2](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9uVNBGO8HnjxkBGui0v9/) (June 5th, 2025)
     * [7.0 Beta 3](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/xVLVdezdFY9LNmeIt2oU/) (July 3rd, 2025)
-    * 7.0 Beta 4 (July 31st, 2025)
+    * [7.0 Beta 4](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/yli5zjuJNyelyopbtYzC/) (July 31st, 2025)
 * BassBoom
   * [0.2.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/VEwnv6SUh5piF7crh1UN/) (September 16th, 2024)
 
