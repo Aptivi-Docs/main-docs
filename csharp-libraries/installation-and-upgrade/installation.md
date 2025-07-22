@@ -1,6 +1,6 @@
 ---
-icon: disc-drive
 description: Installing our library into your project
+icon: disc-drive
 ---
 
 # Installation
@@ -105,11 +105,3 @@ If you are using your favorite text editor, such as Visual Studio Code or Sublim
 {% hint style="info" %}
 This also applies to terminal-based text editors, such as `vim`, though you'll have to open the terminal emulator beforehand in order to be able to use them.
 {% endhint %}
-
-## Installing canary NuGet packages
-
-Libraries and applications provide you a way to install canary NuGet packages, which get updated every time there is a commit or a pull request being pushed to the master and all available servicing branches. Those packages are pushed to our organization's [GitHub Package Registry](https://github.com/orgs/Aptivi/packages), which you can find here.
-
-To install canary NuGet packages, refer to the below page to learn how to install canary NuGet packages from the registry:
-
-{% embed url="https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-nuget-registry" %}
