@@ -60,10 +60,6 @@ You can check out the following stable manuals below:
   * [5.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/AwolIeCEQSaYeA2rJwE5/) (August 26th, 2024)
   * [6.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/TQS2U00Papqc2LMhftr5/) (December 22nd, 2024)
   * [7.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/e0LJJIYap5gz0hAolH6J/) (August 10th, 2025)
-    * [7.0 Beta 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LzbGlY2EzXni4wVJ3OIq/) (May 8th, 2025)
-    * [7.0 Beta 2](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9uVNBGO8HnjxkBGui0v9/) (June 5th, 2025)
-    * [7.0 Beta 3](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/xVLVdezdFY9LNmeIt2oU/) (July 3rd, 2025)
-    * [7.0 Beta 4](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/yli5zjuJNyelyopbtYzC/) (July 31st, 2025)
 * BassBoom
   * [0.2.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/VEwnv6SUh5piF7crh1UN/) (September 16th, 2024)
 
@@ -89,6 +85,10 @@ You can check out the following manuals for these projects (and their first vers
   * [2.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/BAbXedIZJ6HPa9EGmSYt/) (December 13th, 2023)
   * [3.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/OmlwECCRQY4XJQJZaeLc/) (February 19th, 2024)
   * [4.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LICzQPcJvzuBfJRHqvLy/) (May 22nd, 2024)
+  * [7.0 Beta 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LzbGlY2EzXni4wVJ3OIq/) (May 8th, 2025)
+  * [7.0 Beta 2](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/9uVNBGO8HnjxkBGui0v9/) (June 5th, 2025)
+  * [7.0 Beta 3](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/xVLVdezdFY9LNmeIt2oU/) (July 3rd, 2025)
+  * [7.0 Beta 4](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/yli5zjuJNyelyopbtYzC/) (July 31st, 2025)
 * BassBoom
   * [0.1.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/fHtfhhJqL7cSA3V4vRjG/) (May 31st, 2024)
 * [Extensification](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/28rYUbSLKvSrDJNWIOgb/) (October 23rd, 2020)

@@ -46,9 +46,9 @@ However, applications and libraries may have different support periods, which ar
 Only libraries and applications that don't have their own support policy are shown here.
 
 * **Terminaux**
-  * 4.3.x series are supported until July 7th, 2025.
   * 5.4.x series are supported until September 26th, 2025.
   * 6.1.x series are supported until August 5th, 2026 (6 extra months after February 6th, 2026 due to buggy release of 6.0.0).
+  * 7.0.x series are currently supported, and the EOL date has not been decided yet.
 * **BassBoom**
   * 0.2.x.y series is supported until the 1.x version of BassBoom is released, which will accompany with the 1.x version of a future BassBoom library under a separate library.
 
