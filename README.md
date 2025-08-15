@@ -56,6 +56,8 @@ You can check out the following stable manuals below:
   * 0.1.2.x series
     * [RTM](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/ti3qN0z5V1qXGWmZ4j68/) (February 27th, 2025)
     * [Service Pack 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/sksRFHyRvimCbJ6iM2oa/) (April 24th, 2025)
+  * 0.2.0.x series
+    * [Tech Preview](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/bqO9tg9yMTlpVGZ6xEOk/) (August 20th, 2025)
 * Terminaux
   * [5.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/AwolIeCEQSaYeA2rJwE5/) (August 26th, 2024)
   * [6.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/TQS2U00Papqc2LMhftr5/) (December 22nd, 2024)
