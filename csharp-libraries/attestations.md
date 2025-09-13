@@ -12,10 +12,6 @@ You can verify the integrity of all the release assets in any of our projects (w
 
 ### Attestations
 
-{% hint style="danger" %}
-Currently, the attestation generation workflow in GitHub has been stopped due to an error in the GitHub Actions infrastructure that caused all workflows there to stop working. You can rely on manual hashing.
-{% endhint %}
-
 GitHub have recently introduced a new feature that allows you to verify a binary artifact that a workflow has generated, called the [Attestations](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/). To verify your download, once you've downloaded one of the ZIP files, follow these steps:
 
 1. Install [GH CLI 2.49.0](https://github.com/cli/cli/releases/tag/v2.49.0) or higher.
