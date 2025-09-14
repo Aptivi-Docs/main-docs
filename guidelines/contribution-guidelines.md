@@ -109,7 +109,7 @@ private static void PollForResize()
 
 Here we come to the argument of tabs vs spaces. Our problem with tabs is that there are systems that treat tabs as four spaces, and there are systems that treat tabs as eight spaces. Moreover, there is no universal way to accurately query the operating system for tab lengths, as such queries are up to the application handling tabs.
 
-We recommend that you set your IDE to use **four spaces** for each tab press. Also, don't use literal tab characters for indentation (); use four spaces.
+We recommend that you set your IDE to use **four spaces** for each tab press. Also, don't use literal tab characters for indentation (`\t`); use four spaces.
 
 #### Functions that do only one thing
 
