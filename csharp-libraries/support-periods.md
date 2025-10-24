@@ -39,16 +39,24 @@ However, applications and libraries may have different support periods, which ar
 * [**Nitrocid KS**](https://app.gitbook.com/s/yhORwVwuIgJMLsQRqN3S/versions-and-compatibility/supported-versions)
   * Short term releases: 9 months as of 0.1.1 or later
   * Long term releases: 5 years of non-security fixes, and 5 years of security and critical fixes
-  * Although Windows 10 is still supported until October 15th, 2025, we **no longer support** running Nitrocid KS on Windows 10 beginning February 27th, 2025.
+* **BassBoom**
+  * Short term releases: Versions like 1.1.0, 1.3.0, etc. will get 1 year of support
+  * Long term releases: Versions like 1.0.0, 1.2.0, etc. will get 5 years of support
+* **MediaBoom**
+  * Short term releases: Versions like 1.1.0, 1.3.0, etc. will get 1 year of support
+  * Long term releases: Versions like 1.0.0, 1.2.0, etc. will get 5 years of support
+* **Terminaux**
+  * Short term releases: Versions like 7.0.0, 9.0.0, etc. will get 1 year of support
+  * Long term releases: Versions like 8.0.0, 10.0.0, etc. will get 5 years of support
 
 ## Current support periods
 
 Only libraries and applications that don't have their own support policy are shown here.
 
 * **Terminaux**
-  * 5.4.x series are supported until September 26th, 2025.
-  * 6.1.x series are supported until August 5th, 2026 (6 extra months after February 6th, 2026 due to buggy release of 6.0.0).
-  * 7.0.x series are supported until August 5th, 2026.
+  * 6.1.x series is supported until August 5th, 2026 (6 extra months after February 6th, 2026 due to buggy release of 6.0.0).
+  * 7.0.x series is supported until August 5th, 2026.
+  * 8.0.x series is supported until October 13th, 2030.
 * **BassBoom**
   * 0.2.x.y series is supported until the 1.x version of BassBoom is released, which will accompany with the 1.x version of a future BassBoom library under a separate library.
 
