@@ -91,16 +91,15 @@ We support running our applications on Android devices, as long as they get secu
 
 * We don't officially offer support for Android 11 or lower
 * We don't officially offer support for non-Samsung devices (Google Pixel, Huawei, Xiaomi, etc.)
-* We don't officially offer support for One UI 8 yet
 * We don't officially offer support for Android versions that we don't have access to yet
 
-We are offering support for One UI 6.0 as the minimum version for Samsung devices up to One UI 7.0 as the maximum version. The following support periods can be found below:
+We are offering support for One UI 6.0 as the minimum version for Samsung devices up to One UI 8.x as the maximum version. The following support periods can be found below:
 
-| Version    | Support           | End of support      |
-| ---------- | ----------------- | ------------------- |
-| One UI 6.x | Supported         | December 30th, 2027 |
-| One UI 7.0 | Supported         | December 2nd, 2032  |
-| One UI 8.x | Not supported yet | To be determined    |
+| Version    | Support   | End of support      |
+| ---------- | --------- | ------------------- |
+| One UI 6.x | Supported | December 30th, 2027 |
+| One UI 7.0 | Supported | December 2nd, 2032  |
+| One UI 8.x | Supported | December 2nd, 2032  |
 
 ### Others
 
