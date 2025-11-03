@@ -178,6 +178,7 @@ Type: Type
 Breaking: Yes/No
 Doc Required: Yes/No
 Backport Required: Yes/No
+AI Assisted: Yes (assisted by Claude, ChatGPT, ...)/No
 Part: 1/1
 ```
 
@@ -306,7 +307,43 @@ The type at the beginning is necessary as it can tell us and the users in what s
 
 ### Assistance of AI
 
-Although artifical intelligence (AI) is a next-gen technology that every company is leaning to, which we are proud of, but when contributing code or other things to this project, we rely on human work to ensure maximum quality. This means that you are not allowed to use any kind of AI assistance to generate code and non-code contributions, such as ChatGPT and others, in fear of licensing issues, potential security issues, and current hallucination issues. Any usage of such tools when contributing will be immediately rejected.
+Artifical intelligence (AI) is a next-gen technology that every company is leaning to, which we are proud of, but when contributing code or other things to this project, we rely on either human work or AI work + human reviews to ensure maximum quality. You are allowed to use AI assistants, but you'll have to perform extra actions to make sure that you become transparent about its usage.
+
+When authoring commits that contain AI generated code, you'll have to answer `Yes` to the `AI Assisted` field, then you'll have to specify the assistant(s) who helped you author the commit in both the source code and in the field, such as `AI Assisted: Yes (assisted by Claude Sonnet 4.5)` for Claude and a code comment that looks like this (not limited to C#):
+
+```csharp
+//
+// ========== CODE ASSISTED BY Claude Sonnet 4.5, ChatGPT Codex, ... WITH HUMAN REVIEW
+//
+
+(...)
+
+//
+// ========== CODE ASSISTED BY Claude Sonnet 4.5, ChatGPT Codex, ... WITH HUMAN REVIEW
+//
+```
+
+For example, if you used Claude Sonnet 4.5 to help you write C# code that converts an array of single-digit integers to an integer, the code snippet will be like this:
+
+<pre class="language-csharp"><code class="lang-csharp">public static bool VerifyPositiveOrZeroNumberArray(int[] digits)
+{
+    int result = 0;
+    
+<strong>    //
+</strong><strong>    // ========== CODE ASSISTED BY Claude Sonnet 4.5 WITH HUMAN REVIEW
+</strong><strong>    //
+</strong><strong>    foreach (int digit in digits)
+</strong><strong>    {
+</strong><strong>        result = result * 10 + digit;
+</strong><strong>    }
+</strong><strong>    //
+</strong><strong>    // ========== CODE ASSISTED BY Claude Sonnet 4.5 WITH HUMAN REVIEW
+</strong><strong>    //
+</strong>    
+    // Return the result
+    return result >= 0;
+}
+</code></pre>
 
 ### Engagement with the Community
 
