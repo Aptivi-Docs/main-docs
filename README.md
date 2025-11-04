@@ -34,6 +34,7 @@ In order to explore this manual library, we're actively developing these manuals
 * [pushrepos](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/1tJTHYAgZoCnZw6dNbfu/) (August 8th, 2022)
 * [BskyId](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/RRjvnvAeaoBNYAhzAnv0/) (October 8th, 2024)
 * [Build System](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/ocz2kFW2PRMWNpWEjhbc/) (July 18th, 2025)
+* [ResourceLab](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/WuGfzkOYl4bvLjvrP6PQ/) (October 27th, 2025)
 
 ## Stable Manuals
 
