@@ -60,6 +60,7 @@ You can check out the following stable manuals below:
     * [Service Pack 2](https://app.gitbook.com/s/jTBo3FZPtPjlFHZkVmzr/) (September 7th, 2025)
   * 0.2.0.x series
     * [Tech Preview](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/bqO9tg9yMTlpVGZ6xEOk/) (August 20th, 2025)
+    * Release Candidate (December 25th, 2025)
 * Terminaux
   * [6.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/TQS2U00Papqc2LMhftr5/) (December 22nd, 2024)
   * [7.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/e0LJJIYap5gz0hAolH6J/) (August 10th, 2025)
