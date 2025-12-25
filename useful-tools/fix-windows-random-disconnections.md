@@ -26,18 +26,15 @@ To use this program, follow these steps:
 1. Go to the [releases](https://github.com/Aptivi-WPT/NetLimDisable/releases) page
 2. Download the binary ZIP file and extract it
 3. Open the `NetLimDisable.exe` file (requires UAC to be granted)
-4.  Check or uncheck the checkbox that is shown in the below window:\
+4.  Check or uncheck the checkbox that is shown in the below window:<br>
 
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+5.  Click on Apply, and you should see this dialog box declaring that the operation succeeded:<br>
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-5.  Click on Apply, and you should see this dialog box declaring that the operation succeeded:\
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+6.  (Optional) Open the registry editor (`Windows + R` -> `regedit.exe` -> `ENTER`), open the above registry key, and verify that `EnableBadStateTracking` is set to `1` or `0`.<br>
 
-
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-6.  (Optional) Open the registry editor (`Windows + R` -> `regedit.exe` -> `ENTER`), open the above registry key, and verify that `EnableBadStateTracking` is set to `1` or `0`.\
-
-
-    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 7. Continue your operation.
 
 {% hint style="info" %}

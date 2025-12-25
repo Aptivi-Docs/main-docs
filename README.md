@@ -5,7 +5,7 @@ icon: hand-wave
 
 # Welcome!
 
-<figure><img src=".gitbook/assets/aptivi-bg-2k.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Modern-WP-Alt2-2k.png" alt=""><figcaption></figcaption></figure>
 
 You've reached the landing page of our official Aptivi manual library! Welcome to the Aptivi manual where we post every single manual for any and all our projects, including other documentation served for different purposes to document our things.
 
