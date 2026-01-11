@@ -35,6 +35,7 @@ In order to explore this manual library, we're actively developing these manuals
 * [BskyId](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/RRjvnvAeaoBNYAhzAnv0/) (October 8th, 2024)
 * [Build System](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/ocz2kFW2PRMWNpWEjhbc/) (July 18th, 2025)
 * [ResourceLab](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/WuGfzkOYl4bvLjvrP6PQ/) (October 27th, 2025)
+* [Colorimetry](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/BdESDsiuTO9fbDXLJ8HV/) (January 11th, 2026)
 
 ## Stable Manuals
 
