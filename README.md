@@ -67,6 +67,9 @@ You can check out the following stable manuals below:
 * Terminaux
   * [6.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/TQS2U00Papqc2LMhftr5/) (December 22nd, 2024)
   * [7.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/e0LJJIYap5gz0hAolH6J/) (August 10th, 2025)
+  * 8.x series
+    * Version 8.0 (October 20th, 2025)
+    * [Version 8.1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/pl25P6YQsIagE7mWddAf/) (January 22nd, 2026)
 * BassBoom
   * [0.2.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/VEwnv6SUh5piF7crh1UN/) (September 16th, 2024)
 
