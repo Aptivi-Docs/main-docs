@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [Manuals](manuals.md)
 
 ## C# Libraries <a href="#csharp-libraries" id="csharp-libraries"></a>
 
