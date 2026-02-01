@@ -7,13 +7,17 @@ icon: magnifying-glass
 
 We have populated some of the most useful regular expressions that we've found or created here. All work is hereby credited to their respective owners.
 
-## Our regexes
+{% stepper %}
+{% step %}
+### <mark style="color:$primary;">Our regular expressions</mark>
 
-Here lists all regular expressions made by us:
+We have made some of our regular expressions, which you can access and play around freely on RegExr.
 
-### Escape sequences
+<details>
 
-The following regular expressions, which Terminaux uses to filter and match VT sequences, finds all the VT sequences according to their types:
+<summary>Escape sequences</summary>
+
+The following regular expressions, which Terminaux 6.x or lower uses, finds all the VT sequences according to their types:
 
 * [OSC escape sequences](https://regexr.com/6qspk)
 * [ESC escape sequences](https://regexr.com/6qsve)
@@ -24,6 +28,12 @@ The following regular expressions, which Terminaux uses to filter and match VT s
 * [C1 escape sequences](https://regexr.com/6qsua)
 * [Mashup of all escape sequences](https://regexr.com/6qsvb)
 
-## Community regexes
+</details>
+{% endstep %}
+
+{% step %}
+### <mark style="color:$primary;">Community regexes</mark>
 
 Currently, we don't have any community regexes, but if you have a useful one, send it to us through one of the contact methods in either our official website or our organization GitHub account.
+{% endstep %}
+{% endstepper %}

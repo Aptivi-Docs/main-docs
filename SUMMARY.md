@@ -18,5 +18,4 @@
 
 ## Guidelines
 
-* [Code of Conduct](guidelines/code-of-conduct.md)
 * [Contribution Guidelines](guidelines/contribution-guidelines.md)

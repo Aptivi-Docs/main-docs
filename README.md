@@ -1,31 +1,32 @@
 ---
-description: Welcome to the Aptivi manual!
+description: Welcome to the Aptivi Manual!
 icon: hand-wave
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Welcome!
 
-<figure><img src=".gitbook/assets/Modern-WP-Alt2-2k.png" alt=""><figcaption></figcaption></figure>
+Aptivi Manual is an official documentation website for our projects and for our other docs. This is to give users a clear guidance of how to use our projects.
 
-You've reached the landing page of our official Aptivi manual library! Welcome to the Aptivi manual where we post every single manual for any and all our projects, including other documentation served for different purposes.
+## <mark style="color:$primary;">List of Aptivi organizations</mark>
 
-## List of Aptivi organizations
+<table data-view="cards"><thead><tr><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden><select></select></th></tr></thead><tbody><tr><td align="center"><h3><a href="https://github.com/Aptivi"><mark style="color:$primary;"><strong>Aptivi</strong></mark></a></h3></td><td>This GitHub organization stores all official source code for open-source projects.</td><td><a href=".gitbook/assets/Modern-WP-Alt2-2k.png">Modern-WP-Alt2-2k.png</a></td><td></td></tr><tr><td align="center"><h3><a href="https://github.com/Aptivi-Analytics"><mark style="color:$primary;"><strong>Analytics</strong></mark></a></h3></td><td>This GitHub organization stores all analytical content, as well as lists of data.</td><td><a href=".gitbook/assets/Modern-WP-Alt2-2k.png">Modern-WP-Alt2-2k.png</a></td><td></td></tr><tr><td align="center"><h3><a href="https://github.com/Aptivi-Archives"><mark style="color:$primary;"><strong>Archives</strong></mark></a></h3></td><td>An organization that contains archived source code from the main organization.</td><td><a href=".gitbook/assets/Modern-WP-Alt2-2k.png">Modern-WP-Alt2-2k.png</a></td><td></td></tr><tr><td align="center"><h3><a href="https://github.com/Aptivi-Docs"><mark style="color:$primary;"><strong>Docs</strong></mark></a></h3></td><td>Source code of all GItBook documentation for our projects and rolling manuals.</td><td><a href=".gitbook/assets/Modern-WP-Alt2-2k.png">Modern-WP-Alt2-2k.png</a></td><td></td></tr><tr><td align="center"><h3><a href="https://github.com/Aptivi-Stable-Docs"><mark style="color:$primary;"><strong>Stable Docs</strong></mark></a></h3></td><td>Source code of all GItBook stable docs for supported Aptivi projects.</td><td><a href=".gitbook/assets/Modern-WP-Alt2-2k.png">Modern-WP-Alt2-2k.png</a></td><td></td></tr><tr><td align="center"><h3><a href="https://github.com/Aptivi-Docs-Archive"><mark style="color:$primary;"><strong>Docs Archives</strong></mark></a></h3></td><td>Archived source code of documentation for old and obsolete Aptivi projects.</td><td><a href=".gitbook/assets/Modern-WP-Alt2-2k.png">Modern-WP-Alt2-2k.png</a></td><td></td></tr><tr><td align="center"><h3><a href="https://github.com/Aptivi-Assorted"><mark style="color:$primary;"><strong>Assorted</strong></mark></a></h3></td><td>Hosts other misc projects and repositories that are out of scope for the main Aptivi org.</td><td><a href=".gitbook/assets/Modern-WP-Alt2-2k.png">Modern-WP-Alt2-2k.png</a></td><td></td></tr><tr><td align="center"><h3><a href="https://github.com/Aptivi-Choco-Pack"><mark style="color:$primary;"><strong>Choco Packs</strong></mark></a></h3></td><td>Chocolatey package sources for different internal and external projects.</td><td><a href=".gitbook/assets/Modern-WP-Alt2-2k.png">Modern-WP-Alt2-2k.png</a></td><td></td></tr><tr><td align="center"><h3><a href="https://github.com/Aptivi-LPT"><mark style="color:$primary;"><strong>Linux PT</strong></mark></a></h3></td><td>Linux PowerTools stores all tools and scripts tailored to work with Linux systems.</td><td><a href=".gitbook/assets/1000107781.png">1000107781.png</a></td><td></td></tr><tr><td align="center"><h3><a href="https://github.com/Aptivi-WPT"><mark style="color:$primary;"><strong>Windows PT</strong></mark></a></h3></td><td>Windows PowerTools stores all tools and scripts tailored to work with Windows systems.</td><td><a href=".gitbook/assets/1000107781.png">1000107781.png</a></td><td></td></tr><tr><td align="center"><h3><a href="https://github.com/aptivi-mobile"><mark style="color:$primary;"><strong>Mobile</strong></mark></a></h3></td><td>Projects that are built for mobile devices and Android-related repositories.</td><td><a href=".gitbook/assets/Modern-WP-Alt2-2k.png">Modern-WP-Alt2-2k.png</a></td><td></td></tr></tbody></table>
 
-In GitHub, we host several organizations based on purpose. The following organizations are available:
+## <mark style="color:$primary;">List of Aptivi GitLab organizations</mark>
 
-* [Aptivi](https://github.com/Aptivi)
-* [Aptivi Analytics](https://github.com/Aptivi-Analytics)
-* [Aptivi Archives](https://github.com/Aptivi-Archives)
-* [Aptivi Docs](https://github.com/Aptivi-Docs)
-* [Aptivi Stable Docs](https://github.com/Aptivi-Stable-Docs)
-* [Aptivi Docs Archives](https://github.com/Aptivi-Docs-Archive)
-* [Aptivi Museum](https://github.com/Aptivi-Museum)
-* [Aptivi Assorted](https://github.com/Aptivi-Assorted)
-* [Aptivi Chocolatey Packs](https://github.com/Aptivi-Choco-Pack)
-* [Aptivi Linux PowerTools](https://github.com/Aptivi-LPT)
-* [Aptivi Windows PowerTools](https://github.com/Aptivi-WPT)
-* [Aptivi Mobile](https://github.com/aptivi-mobile)
+To get a list of Aptivi GitLab organizations, please consult the below link to get started.
 
-## Getting started
-
-To get started, click on a different page in the left pane.
+{% embed url="https://gitlab.com/aptivi" %}
