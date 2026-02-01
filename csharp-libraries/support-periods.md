@@ -7,6 +7,13 @@ icon: question
 
 When a library is released, it typically comes with just one version series, which is typically 1.x or 0.1.x. Only eligible projects can have their own support period for all versions in the series.
 
+The version legend is used in the changelogs for every single version that was released, when the version series is under support:
+
+* <mark style="color:green;">**Green**</mark>: Indicates additions
+* <mark style="color:yellow;">**Yellow**</mark>: Indicates improvements
+* <mark style="color:red;">**Red**</mark>: Indicates removals
+* <mark style="color:purple;">**Purple**</mark>: Indicates something else
+
 In general, projects that are eligible for support periods can follow this guide:
 
 {% stepper %}
