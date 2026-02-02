@@ -23,3 +23,4 @@
 ## Miscellaneous
 
 * [SmartScreen and our projects](miscellaneous/smartscreen-and-our-projects.md)
+* [Warnings for .NET on Android](miscellaneous/warnings-for-.net-on-android.md)
