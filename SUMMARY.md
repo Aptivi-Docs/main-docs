@@ -19,3 +19,7 @@
 ## Guidelines
 
 * [Contribution Guidelines](guidelines/contribution-guidelines.md)
+
+## Miscellaneous
+
+* [SmartScreen and our projects](miscellaneous/smartscreen-and-our-projects.md)
