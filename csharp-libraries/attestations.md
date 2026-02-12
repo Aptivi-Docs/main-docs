@@ -10,6 +10,8 @@ You can verify the integrity of all the release assets in any of our projects (w
 * GitHub Attestations
 * Manual Hashing
 
+***
+
 ## <mark style="color:$primary;">Attestations</mark>
 
 GitHub have recently introduced a new feature that allows you to verify a binary artifact that a workflow has generated, called the [Attestations](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/). To verify your download, once you've downloaded one of the ZIP files, follow these steps:
@@ -67,6 +69,8 @@ Then, your download is corrupt.
 {% endhint %}
 {% endstep %}
 {% endstepper %}
+
+***
 
 ## <mark style="color:$primary;">Manual hashing</mark>
 

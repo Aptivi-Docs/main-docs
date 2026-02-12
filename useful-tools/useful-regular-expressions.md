@@ -7,9 +7,9 @@ icon: magnifying-glass
 
 We have populated some of the most useful regular expressions that we've found or created here. All work is hereby credited to their respective owners.
 
-{% stepper %}
-{% step %}
-### <mark style="color:$primary;">Our regular expressions</mark>
+***
+
+## <mark style="color:$primary;">Our regular expressions</mark>
 
 We have made some of our regular expressions, which you can access and play around freely on RegExr.
 
@@ -29,11 +29,9 @@ The following regular expressions, which Terminaux 6.x or lower uses, finds all 
 * [Mashup of all escape sequences](https://regexr.com/6qsvb)
 
 </details>
-{% endstep %}
 
-{% step %}
-### <mark style="color:$primary;">Community regexes</mark>
+***
+
+## <mark style="color:$primary;">Community regexes</mark>
 
 Currently, we don't have any community regexes, but if you have a useful one, send it to us through one of the contact methods in either our official website or our organization GitHub account.
-{% endstep %}
-{% endstepper %}

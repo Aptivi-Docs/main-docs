@@ -7,12 +7,20 @@ icon: question
 
 When a library is released, it typically comes with just one version series, which is typically 1.x or 0.1.x. Only eligible projects can have their own support period for all versions in the series.
 
+***
+
+## <mark style="color:$primary;">Version legend</mark>
+
 The version legend is used in the changelogs for every single version that was released, when the version series is under support:
 
 * <mark style="color:green;">**Green**</mark>: Indicates additions
 * <mark style="color:yellow;">**Yellow**</mark>: Indicates improvements
 * <mark style="color:red;">**Red**</mark>: Indicates removals
 * <mark style="color:purple;">**Purple**</mark>: Indicates something else
+
+***
+
+## <mark style="color:$primary;">General support cadence</mark>
 
 In general, projects that are eligible for support periods can follow this guide:
 
@@ -50,7 +58,13 @@ When a beta version of a specific version series is announced, the beta versions
 For example, Nitrocid KS 0.0.6 had a beta testing period that lasted 6 versions (0.0.5.9 -> 0.0.5.14) until the first public release.
 {% endhint %}
 
-Applications and libraries may have exceptions that deviate from the general support plan shown above. The following projects that were given exceptions are here:
+***
+
+## <mark style="color:$primary;">Exceptions</mark>
+
+Applications and libraries may have exceptions that deviate from the general support plan shown above.
+
+The following projects that were given exceptions are here:
 
 {% stepper %}
 {% step %}
@@ -92,6 +106,8 @@ The current supported versions are:
 * **8.0.x series**: Supported until October 13th, 2030.
 {% endstep %}
 {% endstepper %}
+
+***
 
 ## <mark style="color:$primary;">Operating system support</mark>
 

@@ -31,7 +31,9 @@ We've implemented a small tool for Windows that allows you to turn off this kind
 Before you run this tool or manually edit the registry, ensure that you have backed up the registry as wrong edits to the system registry may damage your system.
 {% endhint %}
 
-### <mark style="color:$primary;">Usage of NetLimDisable</mark>
+***
+
+## <mark style="color:$primary;">Usage of NetLimDisable</mark>
 
 To use this program, follow these steps:
 

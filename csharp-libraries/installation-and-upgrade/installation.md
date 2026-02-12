@@ -12,6 +12,8 @@ There are two ways to install our library into your project:
 
 You can choose a way to install a package in a way you prefer.
 
+***
+
 ## <mark style="color:$primary;">Visual Studio's NuGet package manager</mark>
 
 If you're using Visual Studio to build your project, it provides you an easy way to install NuGet packages, such as our libraries, into your project.
@@ -63,6 +65,8 @@ The package is installed! Verify by expanding the `Dependencies` entry beneath t
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+***
 
 ## <mark style="color:$primary;">Manual installation</mark>
 
