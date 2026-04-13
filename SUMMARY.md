@@ -19,6 +19,7 @@
 ## Guidelines
 
 * [Contribution Guidelines](guidelines/contribution-guidelines.md)
+* [Mail Disclosure Policy](guidelines/mail-disclosure-policy.md)
 
 ## Miscellaneous
 
