@@ -41,7 +41,7 @@ They are manuals that are written for a specific version of a library or an appl
 
 ### <mark style="color:$primary;">BassBoom</mark>
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><h4><mark style="color:$primary;">1.0.x series</mark></h4></td><td align="center">May 2nd, 2026</td><td><a href=".gitbook/assets/1000107774.png">1000107774.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><h4><a href="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/SflZy1RRRU1ltnf6CuvV/"><mark style="color:$primary;">1.0.x series</mark></a></h4></td><td align="center">May 2nd, 2026</td><td><a href=".gitbook/assets/1000107774.png">1000107774.png</a></td></tr></tbody></table>
 
 </details>
 {% endstep %}
@@ -65,7 +65,7 @@ They are manuals that are written for a specific version of a library or an appl
 
 ### <mark style="color:$primary;">BassBoom</mark>
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><h4><a href="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/fHtfhhJqL7cSA3V4vRjG/"><mark style="color:$primary;"><strong>0.1.x series</strong></mark></a></h4></td><td align="center">May 31st, 2024</td><td><a href=".gitbook/assets/1000107774.png">1000107774.png</a></td></tr><tr><td align="center"><h4><a href="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/VEwnv6SUh5piF7crh1UN/"><mark style="color:$primary;">0.2.x series</mark></a></h4></td><td align="center">September 16th, 2024 (move to deprecated)</td><td><a href=".gitbook/assets/1000107774.png">1000107774.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><h4><a href="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/fHtfhhJqL7cSA3V4vRjG/"><mark style="color:$primary;"><strong>0.1.x series</strong></mark></a></h4></td><td align="center">May 31st, 2024</td><td><a href=".gitbook/assets/1000107774.png">1000107774.png</a></td></tr><tr><td align="center"><h4><a href="https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/VEwnv6SUh5piF7crh1UN/"><mark style="color:$primary;">0.2.x series</mark></a></h4></td><td align="center">September 16th, 2024</td><td><a href=".gitbook/assets/1000107774.png">1000107774.png</a></td></tr></tbody></table>
 
 ### <mark style="color:$primary;">Others</mark>
 
