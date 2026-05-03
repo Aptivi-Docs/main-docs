@@ -143,6 +143,17 @@ We support running our applications on Linux distributions, as long as the follo
 For our projects, our main support dates can be overridden if the distro version becomes unsupported before the main support date.
 {% endtab %}
 
+{% tab title="FreeBSD" %}
+We update our projects to support the latest version of FreeBSD. When a FreeBSD version series ends its support, we end our support, too.
+
+| Version | Support status    | End of support       |
+| ------- | ----------------- | -------------------- |
+| v15.0   | Supported         | September 30th, 2026 |
+| v15.1   | Not supported yet | To be determined     |
+
+If you are running a FreeBSD version not listed here, there's no guarantee that our projects will work in your FreeBSD system.
+{% endtab %}
+
 {% tab title="Android" %}
 We support running our applications on Android devices under the following conditions:
 
