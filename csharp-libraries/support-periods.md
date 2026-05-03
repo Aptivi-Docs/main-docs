@@ -72,8 +72,8 @@ The following projects that were given exceptions are here:
 
 The following release support terms are divided into two sections:
 
-* **Short term releases**: 9 months for each minor release (such as 0.1.1 and 0.1.2)
-* **Long term releases**: 5 years of non-security fixes and 5 years of security and critical fixes for each major release (such as 0.1.0 and 0.2.0)
+* <mark style="color:$primary;">**Short term releases**</mark>: 9 months for each minor release (such as 0.1.1 and 0.1.2)
+* <mark style="color:$primary;">**Long term releases**</mark>: 5 years of non-security fixes and 5 years of security and critical fixes for each major release (such as 0.1.0 and 0.2.0)
 
 You can consult the supported versions list [here](https://app.gitbook.com/s/yhORwVwuIgJMLsQRqN3S/versions-and-compatibility/supported-versions).
 {% endstep %}
@@ -83,12 +83,12 @@ You can consult the supported versions list [here](https://app.gitbook.com/s/yhO
 
 The following release support terms are divided into two sections:
 
-* **Short term releases**: Versions like 1.1.0, 1.3.0, etc. will get 1 year of support
-* **Long term releases**: Versions like 1.0.0, 1.2.0, etc. will get 5 years of support
+* <mark style="color:$primary;">**Short term releases**</mark>: Versions like 1.1.0, 1.3.0, etc. will get 1 year of support
+* <mark style="color:$primary;">**Long term releases**</mark>: Versions like 1.0.0, 1.2.0, etc. will get 5 years of support
 
 The current supported versions are:
 
-* **0.2.x.y series**: Supported until the 1.x version of BassBoom is released, which will accompany with the 1.x version of a future BassBoom library under a separate library.
+* <mark style="color:$primary;">**1.0.x.y series**</mark>: Supported until May 1st, 2031.
 {% endstep %}
 
 {% step %}
@@ -96,14 +96,14 @@ The current supported versions are:
 
 The following release support terms are divided into two sections:
 
-* **Short term releases**: Versions like 7.0.0, 9.0.0, etc. will get 1 year of support
-* **Long term releases**: Versions like 8.0.0, 10.0.0, etc. will get 5 years of support
+* <mark style="color:$primary;">**Short term releases**</mark>: Versions like 7.0.0, 9.0.0, etc. will get 1 year of support
+* <mark style="color:$primary;">**Long term releases**</mark>: Versions like 8.0.0, 10.0.0, etc. will get 5 years of support
 
 The current supported versions are:
 
-* **6.1.x series**: Supported until August 5th, 2026 (6 extra months after February 6th, 2026 due to buggy release of 6.0.0).
-* **7.0.x series**: Supported until August 5th, 2026.
-* **8.0.x series**: Supported until October 13th, 2030.
+* <mark style="color:$primary;">**6.1.x series**</mark>: Supported until August 5th, 2026 (6 extra months after February 6th, 2026 due to buggy release of 6.0.0).
+* <mark style="color:$primary;">**7.0.x series**</mark>: Supported until August 5th, 2026.
+* <mark style="color:$primary;">**8.x.x series**</mark>: Supported until October 13th, 2030.
 {% endstep %}
 {% endstepper %}
 
@@ -117,10 +117,10 @@ When it comes to supporting operating systems in our apps, the below support dat
 {% tab title="Windows" %}
 Windows versions have a long term support duration for each major version.
 
-| Version    | Support status | End of support      |
-| ---------- | -------------- | ------------------- |
-| Windows 11 | Supported      | December 16th, 2032 |
-| Windows 10 | Supported      | December 17th, 2026 |
+| Version    | Support status | End of support   |
+| ---------- | -------------- | ---------------- |
+| Windows 11 | Supported      | To be determined |
+| Windows 10 | Supported      | May 1st, 2031    |
 {% endtab %}
 
 {% tab title="macOS" %}
@@ -129,7 +129,7 @@ Generally, a macOS version will end its support three years after the initial re
 | Version            | Support status | End of support    |
 | ------------------ | -------------- | ----------------- |
 | macOS 26 (Tahoe)   | Supported      | To be determined  |
-| macOS 15 (Sequoia) | Supported      | To be determined  |
+| macOS 15 (Sequoia) | Supported      | October 1st, 2027 |
 | macOS 14 (Sonoma)  | Supported      | October 1st, 2026 |
 {% endtab %}
 
@@ -158,10 +158,11 @@ Please note that:
 
 For Samsung users, we are offering support for One UI 6.0 as the minimum version up to One UI 8.x as the maximum version. The following support periods can be found below:
 
-| Version                 | Support status | End of support      |
-| ----------------------- | -------------- | ------------------- |
-| One UI 6.x (Android 14) | Supported      | December 30th, 2027 |
-| One UI 7.0 (Android 15) | Supported      | December 2nd, 2032  |
-| One UI 8.x (Android 16) | Supported      | December 2nd, 2032  |
+| Version                 | Support status    | End of support      |
+| ----------------------- | ----------------- | ------------------- |
+| One UI 6.x (Android 14) | Supported         | December 30th, 2027 |
+| One UI 7.0 (Android 15) | Supported         | December 2nd, 2032  |
+| One UI 8.x (Android 16) | Supported         | December 2nd, 2032  |
+| One UI 9.x (Android 17) | Not supported yet | To be determined    |
 {% endtab %}
 {% endtabs %}
