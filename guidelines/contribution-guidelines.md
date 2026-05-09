@@ -308,22 +308,6 @@ In addition to that, if you've backported a commit from a different branch or ta
       - BE2701D2...
     ```
 
-If you want to specify a command output, you must specify the output name, the description, the command used, and the output. This is placed directly after the description section and, if it exists, the backported commits section, like this:
-
-```
-Output
-
-List of files
-
-  - ls
-
-total 151
-drwxr-xr-x 1 Aptivi None     0 Nov  6 12:52 .
-drwxr-xr-x 1 Aptivi None     0 Aug  2 09:07 ..
--rw-r--r-- 1 Aptivi None  4351 Nov 15  2022 DIR_COLORS
-(...)
-```
-
 ### <mark style="color:$primary;">Releases</mark>
 
 When planning for a new version, always start the development of the next version by changing the version found in all the relevant files (usually `Directory.Build.props` for C# projects) before starting to push commits that add new features and everything else. When development finishes, before the release tag can be pushed, the `CHANGES` file should be changed to reflect the new release, as long as it follows this convention:
