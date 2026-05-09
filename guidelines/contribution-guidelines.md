@@ -242,6 +242,8 @@ AI Assisted: Yes (assisted by Claude, ChatGPT, ...)/No
 Part: 1/1
 ```
 
+#### <mark style="color:$primary;">Types</mark>
+
 For types, you should select exactly one type from the following types:
 
 * `add`: for additions
@@ -261,6 +263,12 @@ For types, you should select exactly one type from the following types:
 * `pkg`: for packaging-related changes, such as Debian, PKGBUILD, Flatpak, etc.
 * `und`: for other changes that don't apply
 
+{% hint style="info" %}
+If you want to use `add`, `fix`, `rem`, `imp`, `doc`, or `bkp`, you'll have to provide a description.
+{% endhint %}
+
+#### <mark style="color:$primary;">Attributes</mark>
+
 Additionally, attributes are optional and can be specified. Multiple attributes should be separated with the pipe character (`|`). However, there are special cases that you may need to handle when you're committing your changes to your pull request:
 
 * If documentation is required (i.e. your commit requires documentation on GitBook and you've specified `doc`), change the `Doc Required` part to `Yes`, otherwise, `No`.
@@ -278,6 +286,8 @@ These are the attributes we officially support:
 * `ptp`: for prototyping
 * `prt`: for commit series (PartNum is required)
 * `bkp`: for backports
+
+#### <mark style="color:$primary;">Backported commits</mark>
 
 Take note that if you've set a commit that is a backport, make sure that the type is not one of the following types:
 
