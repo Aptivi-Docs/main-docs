@@ -126,11 +126,12 @@ Windows versions have a long term support duration for each major version.
 {% tab title="macOS" %}
 Generally, a macOS version will end its support three years after the initial release.
 
-| Version            | Support status | End of support    |
-| ------------------ | -------------- | ----------------- |
-| macOS 26 (Tahoe)   | Supported      | To be determined  |
-| macOS 15 (Sequoia) | Supported      | October 1st, 2027 |
-| macOS 14 (Sonoma)  | Supported      | October 1st, 2026 |
+| Version                | Support status | End of support    |
+| ---------------------- | -------------- | ----------------- |
+| macOS 27 (Golden Gate) | Supported      | To be determined  |
+| macOS 26 (Tahoe)       | Supported      | To be determined  |
+| macOS 15 (Sequoia)     | Supported      | October 1st, 2027 |
+| macOS 14 (Sonoma)      | Supported      | October 1st, 2026 |
 {% endtab %}
 
 {% tab title="Linux" %}
