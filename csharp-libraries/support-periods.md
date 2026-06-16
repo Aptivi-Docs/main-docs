@@ -147,10 +147,10 @@ For our projects, our main support dates can be overridden if the distro version
 {% tab title="FreeBSD" %}
 We update our projects to support the latest version of FreeBSD. When a FreeBSD version series ends its support, we end our support, too.
 
-| Version | Support status    | End of support       |
-| ------- | ----------------- | -------------------- |
-| v15.0   | Supported         | September 30th, 2026 |
-| v15.1   | Not supported yet | To be determined     |
+| Version | Support status | End of support       |
+| ------- | -------------- | -------------------- |
+| v15.0   | Supported      | September 30th, 2026 |
+| v15.1   | Supported      | March 31st, 2027     |
 
 If you are running a FreeBSD version not listed here, there's no guarantee that our projects will work in your FreeBSD system.
 {% endtab %}
