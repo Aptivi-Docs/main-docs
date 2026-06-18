@@ -55,11 +55,11 @@ Open the `NetLimDisable.exe` executable file (requires UAC to be granted)
 
 Check or uncheck the checkbox that is shown in the below window:
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Then, click on Apply, and you should see the below dialog box:
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -67,7 +67,7 @@ Then, click on Apply, and you should see the below dialog box:
 
 Open the registry editor (`Windows + R` -> `regedit.exe` -> `ENTER`), open the above registry key, and verify that `EnableBadStateTracking` is set to `1` or `0`.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

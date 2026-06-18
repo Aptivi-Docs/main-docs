@@ -38,7 +38,7 @@ Right click on either the project or the `Dependencies` entry beneath the projec
 
 Click on `Browse` and click on the `Search` text box. Then, write the desired library you'd like to install, such as Terminaux.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -46,7 +46,7 @@ Click on `Browse` and click on the `Search` text box. Then, write the desired li
 
 Click on any of the libraries that show up in the search results, and click on `Install`.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -54,7 +54,7 @@ Click on any of the libraries that show up in the search results, and click on `
 
 If any package asks for your acceptance of the license, read the license contained by clicking on their license names, then click on `I Accept`.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -62,7 +62,7 @@ If any package asks for your acceptance of the license, read the license contain
 
 The package is installed! Verify by expanding the `Dependencies` entry beneath the project and expanding the `Packages` entry.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -91,7 +91,7 @@ Open Visual Studio to a project that you want to install our libraries to.
 
 Double click on the project as shown in the Solution Explorer pane
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -111,7 +111,7 @@ Place this snippet at the end of the project file just before the `</Project>` d
 
 Save the project file. It should automatically install the required packages. If, however, the package restoration didn't automatically start, right-click on the solution and select `Restore NuGet Packages`.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -125,7 +125,7 @@ If you are using your favorite text editor, such as Visual Studio Code or Sublim
 
 Open the file explorer and navigate to the target project directory that contains the project file (not the solution `.sln` or `.slnx` file)
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -133,7 +133,7 @@ Open the file explorer and navigate to the target project directory that contain
 
 Right-click on the project file -> `Open With` -> your favorite text editor
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

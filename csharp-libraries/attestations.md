@@ -88,7 +88,7 @@ Open the appropriate release page that matches your version.
 
 Look for a file that you've downloaded from the list of expected hash sums.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -96,7 +96,7 @@ Look for a file that you've downloaded from the list of expected hash sums.
 
 Verify the SHA256 sum using a preferred tool of your choice. In CLI, use `sha256sum` against the file if you're running on Linux, or use `Get-FileHash -Algorithm sha256` in PowerShell against the file if you're running on Windows.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
