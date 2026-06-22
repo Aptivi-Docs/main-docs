@@ -22,7 +22,13 @@ Trying to run or build any .NET application on an ARM64 Android device (e.g. And
 
 In order to fix this message, append the below environment variable before each `dotnet build` command like this:
 
-<pre class="language-shell-session"><code class="lang-shell-session"><strong>$ DOTNET_GCHeapHardLimit=1C0000000 dotnet build
+<pre><code><strong>$ DOTNET_GCHeapHardLimit=1C0000000 dotnet build
+</strong></code></pre>
+
+For a more permanent fix, you will have to change `~/.profile` so that it automatically exports this environment variable for each login:
+
+<pre class="language-shell-session"><code class="lang-shell-session"><strong>$ echo "DOTNET_GCHeapHardLimit=1C0000000" >> ~/.profile
+</strong><strong>$ . ~/.profile
 </strong></code></pre>
 
 </details>
