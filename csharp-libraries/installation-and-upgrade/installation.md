@@ -16,6 +16,10 @@ You can choose a way to install a package in a way you prefer.
 
 ## <mark style="color:$primary;">Visual Studio's NuGet package manager</mark>
 
+{% hint style="info" %}
+This only applies to those who are using Windows.
+{% endhint %}
+
 If you're using Visual Studio to build your project, it provides you an easy way to install NuGet packages, such as our libraries, into your project.
 
 {% stepper %}

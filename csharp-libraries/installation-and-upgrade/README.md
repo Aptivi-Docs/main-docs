@@ -37,6 +37,16 @@ It's a good practice to verify that your download is not corrupt using the metho
 [attestations.md](../attestations.md)
 {% endcontent-ref %}
 {% endstep %}
+
+{% step %}
+### <mark style="color:$primary;">Building</mark>
+
+If you want to build our project from source, click on the below page.
+
+{% content-ref url="../building.md" %}
+[building.md](../building.md)
+{% endcontent-ref %}
+{% endstep %}
 {% endstepper %}
 
 {% hint style="info" %}

@@ -8,6 +8,7 @@
 * [Installation and Upgrade](csharp-libraries/installation-and-upgrade/README.md)
   * [Installation](csharp-libraries/installation-and-upgrade/installation.md)
   * [Upgrade](csharp-libraries/installation-and-upgrade/upgrade.md)
+* [Building](csharp-libraries/building.md)
 * [Attestations](csharp-libraries/attestations.md)
 * [Support Periods](csharp-libraries/support-periods.md)
 
